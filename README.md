@@ -1,2 +1,2 @@
 # MachineLearning
-Course from Kaggle and @FUW by 
+Course from Kaggle and @FUW
